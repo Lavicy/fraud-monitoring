@@ -1,0 +1,11 @@
+# Keep the downloaded data and local environment out of Git.
+/data/*
+!/data/README.md
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+.env
+.env.*
