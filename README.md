@@ -1,4 +1,4 @@
-# Fraud monitoring｜诈骗监测
+# Fraud monitoring
 
 During my bank internship, I came across situations involving fraudulent transfers. This made me interested in looking at transaction data more closely: which types of payment have a higher proportion of fraud, and what should we look at when monitoring changes in activity?
 
